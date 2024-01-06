@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @celiaguerrero1980
+- 👀 I’m interested in programming 🤷‍♀️
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me https://www.linkedin.com/in/celialguerrero/
